@@ -43,15 +43,15 @@
 A system for **PCB defect detection** using AI models. I handled the full front-end development and UI/UX design, transforming Figma designs into a responsive interface and optimizing performance to achieve a 99% Lighthouse score.  
 - Source code : [PCB Vision Source code](https://github.com/fatmaelfazarey/PCB-Vision-02).
 - Live preview : [PCB Vision Live preview](https://pcb-vision-02.vercel.app/).
-- Demo video : [PCB Vision Demo](https://drive.google.com/drive/folders/11jeZNq8--LTTmqJJAuJPnv_Wpuf4YY5s). Note: The project runs locally with a .NET backend using RESTful APIs. Demo video is provided for 
-reference.
+- Demo video : [PCB Vision Demo](https://drive.google.com/drive/folders/11jeZNq8--LTTmqJJAuJPnv_Wpuf4YY5s). Note: The project runs locally with a .NET backend using RESTful APIs. Demo video is provided for reference.
 
 ### 2- Prescripto – Medical Clinic Website  
 Developed a medical clinic website with features for performance optimization and a dynamic admin dashboard. Converted Figma UI designs into clean, responsive React code while enhancing the overall UI/UX. The website supports both light and dark modes for better accessibility. Performance improvements led to a Lighthouse score of 95. 
-### User Website 
+- <b>User Website </b>
 - Source code : [Prescripto Source code](https://github.com/fatmaelfazarey/Prescripto11).
 - Live preview : [Prescripto Live preview](https://prescripto11.vercel.app/).
-### Admin Dashboard 
+  
+- <b>Admin Dashboard </b>
 - Source code : [Prescripto Dashboard Source code](https://github.com/fatmaelfazarey/Prescripto-Dashboard-v02).
 - Live preview : [Prescripto Dashboard Live preview](https://prescripto-dashboard-v02-redskaphh-fatmaelfazareys-projects.vercel.app/dashboard).
 
@@ -86,6 +86,10 @@ Designed and implemented a customizable and responsive dashboard template for we
 
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmaelfazarey&show_icons=true&theme=light" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaelfazarey&layout=compact" alt="Top Languages" />
+</div>
 
 ## Portfolio & CV  
 - Portfolio : [Portfolio](https://drive.google.com/drive/folders/1AP1f02IHYPCVC2xLgeQIymsxXoNjsNvF?usp=sharing)  
@@ -102,4 +106,5 @@ Designed and implemented a customizable and responsive dashboard template for we
 - **LeetCode:** [fatma_mo](https://leetcode.com/u/fatma_mo/)  
 
 ---
+
 
