@@ -4,7 +4,6 @@
 
 ### I'm  
 # **Fatma Mohammed Elfazary**  
-
 ### Front-End Developer | React | Angular | UI/UX   
 
 </div>  
