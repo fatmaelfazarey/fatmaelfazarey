@@ -4,7 +4,9 @@
 
 <p>I'm</p>  
 
-<h3 style="font-size:32px; font-weight:bold; margin:0;">Fatma Mohammed Elfazarey</h3>  
+<!-- <h3 style="font-size:32px; font-weight:bold; margin:0;">Fatma Mohammed Elfazarey</h3> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fatma+Mohammed+Elfazarey)](https://git.io/typing-svg)
+
 
 <p style="font-size:20px; margin-top:5px;">Front-End Developer | React | Angular | UI/UX</p>  
 <h1></h1>
