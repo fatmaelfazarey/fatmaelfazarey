@@ -1,14 +1,15 @@
 <div align="center">
 
-### Welcome to my GitHub Profile  
+<p>Welcome to my GitHub Profile</p>  
 
-## I'm  
-<h1>Fatma Mohammed Elfazary</h1>  
+<p>I'm</p>  
 
-## Front-End Developer | React | Angular | UI/UX   
+<h3 style="font-size:32px; font-weight:bold; margin:0;">Fatma Mohammed Elfazarey</h3>  
 
-</div>  
+<p style="font-size:20px; margin-top:5px;">Front-End Developer | React | Angular | UI/UX</p>  
+<h1></h1>
 
+</div>
 
 ## 📝 About Me  
 🎓 Fresh Graduate of **Faculty of Engineering, Fayoum University** – Class of 2025  
