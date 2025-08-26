@@ -1,11 +1,11 @@
 <div align="center">
 
-### 🌸 Welcome to my GitHub Profile  
+### Welcome to my GitHub Profile  
 
 ### I'm  
 # **Fatma Mohammed Elfazary**  
 
-### Front-End Developer | React | Angular | UI/UX Enthusiast  
+### Front-End Developer | React | Angular | UI/UX   
 
 </div>  
 ---
