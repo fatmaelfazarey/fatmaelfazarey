@@ -27,13 +27,57 @@
 
 ---
 
-## Skills  
-- **Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, React.js, Angular, Java  
-- **Styling:** Bootstrap, Tailwind CSS  
-- **Databases:** MySQL  
-- **UI/UX Tools:** Figma, Adobe XD, Illustrator, Photoshop  
-- **Other:** React Native, RESTful APIs, React Hooks, React Router, Git & GitHub, VS Code, Chrome DevTools  
-- **Soft Skills:** Problem-Solving, Communication, Teamwork, Adaptability, User-focused mindset  
+## 🛠 Skills  
+
+- Languages  
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
+
+</div>  
+
+
+
+- Frameworks & Libraries  
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
+
+</div>  
+
+
+
+- Tools  
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Chrome_DevTools-FCC624?style=for-the-badge&logo=google-chrome&logoColor=black"/>  
+
+</div>  
+
+
+
+- Design  
+<div align="center">
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>  
+
+</div>
+
 
 ---
 
@@ -106,5 +150,4 @@ Designed and implemented a customizable and responsive dashboard template for we
 - **LeetCode:** [fatma_mo](https://leetcode.com/u/fatma_mo/)  
 
 ---
-
 
