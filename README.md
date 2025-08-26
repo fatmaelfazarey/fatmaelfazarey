@@ -3,7 +3,7 @@
 ### Welcome to my GitHub Profile  
 
 ### I'm  
-### **Fatma Mohammed Elfazary**  
+#### ***Fatma Mohammed Elfazary***  
 ## Front-End Developer | React | Angular | UI/UX   
 
 </div>  
