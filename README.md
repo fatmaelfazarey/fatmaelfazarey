@@ -11,11 +11,11 @@
 
 </div>
 
-## 📝 About Me  
-🎓 Fresh Graduate of **Faculty of Engineering, Fayoum University** – Class of 2025  
-💻 Department: **Computer and Systems Engineering**  
-📱 Background in **UI/UX design** and **Mobile App development with React Native**  
-🧩 Interested in **Problem-Solving, Front-End Development, and User-Centered Design**  
+## About Me  
+- Fresh Graduate of **Faculty of Engineering, Fayoum University** – Class of 2025  
+- Department: **Computer and Systems Engineering**  
+- Background in **UI/UX design** and **Mobile App development with React Native**  
+- Interested in **Problem-Solving, Front-End Development, and User-Centered Design**  
 
 ---
 
