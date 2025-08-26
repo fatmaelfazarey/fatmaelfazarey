@@ -1,8 +1,13 @@
-# 🌸 Welcome to my GitHub Profile  
+<div align="center">
 
-## 👩‍💻 I'm **Fatma Mohammed Elfazary**  
-**Front-End Developer** | React ⚛️ | Angular 🅰️ | UI/UX Enthusiast  
+### 🌸 Welcome to my GitHub Profile  
 
+### I'm  
+# **Fatma Mohammed Elfazary**  
+
+### Front-End Developer | React | Angular | UI/UX Enthusiast  
+
+</div>  
 ---
 
 ## 📝 About Me  
