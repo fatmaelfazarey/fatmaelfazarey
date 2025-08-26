@@ -1,15 +1,21 @@
 <div align="center">
 
-<p>Welcome to my GitHub Profile</p>  
-
-<p>I'm</p>  
-
-<!-- <h3 style="font-size:32px; font-weight:bold; margin:0;">Fatma Mohammed Elfazarey</h3> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fatma+Mohammed+Elfazarey)](https://git.io/typing-svg)
-
-
-<p style="font-size:20px; margin-top:5px;">Front-End Developer | React | Angular | UI/UX</p>  
+ <!-- 
+ <p>Welcome to my GitHub Profile</p>
+ <p>I'm</p>  
+ <h3 style="font-size:32px; font-weight:bold; margin:0;">Fatma Mohammed Elfazarey</h3>
+ <p style="font-size:20px; margin-top:5px;">Front-End Developer | React | Angular | UI/UX</p>  
 <h1></h1>
+ -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile&repeat=false)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=2000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=I'm&repeat=false)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fatma+Mohammed+Elfazarey)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+%7C+Angular+%7C+UI%2FUX&repeat=false)](https://git.io/typing-svg)
+
 
 </div>
 
