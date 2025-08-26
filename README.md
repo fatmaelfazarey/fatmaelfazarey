@@ -3,10 +3,12 @@
 ### Welcome to my GitHub Profile  
 
 ### I'm  
-### **Fatma Mohammed Elfazary**  
+# Fatma Mohammed Elfazary  
+
 ## Front-End Developer | React | Angular | UI/UX   
 
 </div>  
+
 ## 📝 About Me  
 🎓 Fresh Graduate of **Faculty of Engineering, Fayoum University** – Class of 2025  
 💻 Department: **Computer and Systems Engineering**  
