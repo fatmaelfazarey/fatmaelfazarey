@@ -133,7 +133,12 @@ Designed and implemented an interactive Tic Tac Toe game with responsive layouts
 - Source code : [Game Source code](https://github.com/fatmaelfazarey/Tic-Tac-Toe-Game).
 - Live preview : [Game Live preview](https://fatmaelfazarey.github.io/Tic-Tac-Toe-Game/). 
 
-### 8- Dashboard Template  
+### 8- Loady library   
+A lightweight CSS animation library that provides a collection of smooth, reusable loading animations (e.g., spinning circles, bouncing dots, pulsating rings). Built using pure CSS keyframes for seamless and infinite transitions, with no JavaScript required.
+- Source code : [Loady Source code](https://github.com/fatmaelfazarey/Loady-).
+- Live preview : [Loady Live preview](https://fatmaelfazarey.github.io/Loady-/). 
+
+### 9- Dashboard Template  
 Designed and implemented a customizable and responsive dashboard template for web applications. The dashboard includes modular components, interactive widgets, and a clean, user-friendly interface optimized for various devices.
 - Source code : [Dashboard Source code](https://github.com/fatmaelfazarey/Dashboard-template).
 - Live preview : [Dashboard Live preview](https://fatmaelfazarey.github.io/Dashboard-template/). 
