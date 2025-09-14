@@ -143,6 +143,11 @@ Designed and implemented a customizable and responsive dashboard template for we
 - Source code : [Dashboard Source code](https://github.com/fatmaelfazarey/Dashboard-template).
 - Live preview : [Dashboard Live preview](https://fatmaelfazarey.github.io/Dashboard-template/). 
 
+### 10- Calculator  
+- Source code : [Calculator Source code](https://github.com/fatmaelfazarey/Calculator).
+- Live preview : [Calculator Download](https://expo.dev/accounts/fatma_mo/projects/calculator/builds/3c4c2789-2d07-4d40-b57a-1c414848f243). 
+
+
 
 ---
 <div align="center">
